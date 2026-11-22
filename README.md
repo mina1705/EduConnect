@@ -1,0 +1,2 @@
+# EduConnect
+Plateforme académique collaborative
